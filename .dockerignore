@@ -1,0 +1,9 @@
+
+media/
+db.sqlite3
+Dockerfile
+.git
+.gitignore
+docker-compose.yml
+docker-compose.override.yml
+*__pycache__*
